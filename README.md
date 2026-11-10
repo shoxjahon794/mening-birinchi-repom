@@ -1,1 +1,3 @@
-# mening-birinchi-repom
+# Katta sarlavha
+**qalin matn**
+- ro'yxat bandi
